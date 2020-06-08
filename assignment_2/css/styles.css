@@ -28,12 +28,12 @@ body {
 }
 
 #nav-list a {
-  color: #80bad1;
+  color: #EDAAFC;
   font-weight: bold;
 }
 
 #nav-list a:hover {
-  background: rgb(236, 236, 209);
+  background: #404958;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
